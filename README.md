@@ -22,7 +22,7 @@ A curated list of awesome EOS security tools and resources
 
 * [EOS Platform Security](#eos-platform-security)
     * [EOS Bug Bounty](#eos-bug-bounty)
-    * [Last EOS Blockchain Vulnerabilities ](#last-eos-blockchain-vulnerabilities)
+    * [EOS Blockchain Vulnerabilities ](#eos-blockchain-vulnerabilities)
     * [EOS Ghostbusters Security Testnet](#eos-ghostbusters-security-testnet)
 
 
