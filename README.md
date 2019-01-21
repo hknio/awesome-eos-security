@@ -40,6 +40,7 @@ A curated list of awesome EOS security tools and resources
 * [OCI EOS smart contract ](https://objectcomputing.com/resources/publications/sett/february-2018-eos-smart-contracts) - EOS.IO Smart Contract By OCI Block.One Software Engineering Team
 * [EOS dApp Development tutorial Part 1 ](https://infinitexlabs.com/eos-development-tutorial-part-1/) - The ultimate end to end EOS dApp development tutorial part 1
 * [EOS dApp Development tutorial Part 2 ](https://infinitexlabs.com/eos-development-tutorial-part-2/) - The ultimate end to end EOS dApp development tutorial part 2
+* [EOS terms glossary](https://www.eoscanada.com/en/abc-eos) - A glossary of terms that every EOS user should know
 
 ### TestNets
 * [Jungle Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) - EOS Block Producers Crypto Lions based in Ukraine
@@ -94,6 +95,7 @@ A curated list of awesome EOS security tools and resources
 * [High-risk vulnerability](https://www.reddit.com/r/eos/comments/8qqinu/highrisk_security_vulnerabilities_left_unchecked/) - High-risk Security vulnerabilities Left Unchecked Before the EOS Mainnet Countdown
 * [Testnet critical attack ](https://unhashed.com/cryptocurrency-news/eos-jungle-testnet-critical-attack/) - EOS Jungle Testnet Suffers Critical Attack
 * [Vulnerability in EOS Code](https://cryptoslate.com/ethical-hacker-exposes-vulnerabilities-in-eos-code/) - Ethical Hacker Exposes Vulnerabilities in EOS Code
+* [Fastwin Hack Explained](https://medium.com/@peckshield/fastwin-hack-explained-block-one-releases-stealthy-patches-against-critical-flaws-78c599071f95) - Writeup on security vulnerability in EOSIO bugbounty - Fastwin Hack
 
 ### EOS Ghostbusters Security Testnet
 * [What is Ghostbusters?](https://www.hkeos.com/Ghostbusters) - What is Ghostbusters ?
